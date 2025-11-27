@@ -1,0 +1,5 @@
+{
+  "name": "BambuPrint AI Advisor",
+  "description": "Bambu Studio 3D 打印参数 AI 助手。上传模型预览或打印失败的照片，获取优化的切片设置。",
+  "requestFramePermissions": []
+}
